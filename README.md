@@ -29,4 +29,5 @@ Result: 50.0
 
 # Feature improvments
 1.Add more operations (exponent, modulus, etc.)
+
 2. Create a GUI (Graphical User Interface)
